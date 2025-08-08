@@ -1,3 +1,5 @@
+<img width="746" height="634" alt="iso" src="https://github.com/user-attachments/assets/ca2a17a0-754b-472e-af51-75f4d54c2318" />
+
 The interaction between the mean and standard deviation (STD) of sub-metering readings in your heatmap suggests that there's a statistical relationship between the average energy usage (mean) and the variability (STD) for each sub-metering channel. These interactions are evident from the non-zero values off the diagonal, such as the notably high 0.3 seen between MEAN_Sub_metering_2 and STD_Sub_metering_2.
 
 ### Why Does This Interaction Occur?
